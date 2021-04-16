@@ -14,7 +14,7 @@ Criar um api
 Consumir API
 
 - [x] Utilizar fetch para consumir nossa API backend
-- [x] Explicar Promise - Async/await
+- [x] Promise - Async/await
 - [x] Usar try/catch # caputrar erros.
 - [x] mostrar a resposta na tela
 
