@@ -15,7 +15,7 @@ Consumir API
 
 - [x] Utilizar fetch para consumir nossa API backend
 - [x] Promise - Async/await
-- [x] Usar try/catch # caputrar erros.
+- [x] Usar try/catch # capturar erros.
 - [x] mostrar a resposta na tela
 
 ## Backend
